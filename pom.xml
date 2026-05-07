@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/<shameenmhd10@gmail.com>/<mvn_deploy></url>
+            <url>https://maven.pkg.github.com/<shameenmhd10-art>/<mvn_deploy></url>
         </repository>
     </distributionManagement>
 
