@@ -19,12 +19,12 @@
 
     <!-- GitHub Packages Deployment Configuration -->
     <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/<shameenmhd10-art>/<mvn_deploy></url>
-        </repository>
-    </distributionManagement>
+    <repository>
+        <id>github</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/shameenmhd10-art/mvn_deploy</url>
+    </repository>
+</distributionManagement>
 
     <build>
         <plugins>
